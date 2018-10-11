@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 dddddddddddddddddddddggggggggggggggg1
+=======
+dddddddddddddddddddddggggggggggggggg3
+>>>>>>> 52c91ad72ca9dd16632f779dc2bdcb5f39629db8
 aaaaaaaaaaaaaaaaaaaaaaa
 ccccccccccccccccc
